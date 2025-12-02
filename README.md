@@ -127,7 +127,6 @@ medical-image-classification-3d-cnn/
 ├── requirements.txt
 └── README.md
 
-
 ## 👤 **Author**
 
 **Surabhi H R**
