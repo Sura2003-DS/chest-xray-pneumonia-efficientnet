@@ -1,0 +1,19 @@
+# Dataset folder
+data/
+
+# Cache and checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# Large model files
+*.h5
+*.hdf5
+*.pth
+
+# Zips
+*.zip
+
+# Python environment
+env/
+venv/
+*.egg-info
