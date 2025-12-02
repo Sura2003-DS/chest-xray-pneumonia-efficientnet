@@ -109,21 +109,18 @@ AUC score demonstrates performance beyond simple accuracy.
 
 ## 📌 **Folder Structure**
 
-project/
+medical-image-classification-3d-cnn/
 │
 ├── notebooks/
 │   └── Chest_Xray_Pneumonia_EfficientNet.ipynb
-│
 ├── results/
 │   ├── accuracy.png
 │   ├── loss.png
 │   ├── confusion_matrix.png
 │   ├── roc_curve.png
 │   ├── sample_predictions.png
-│
 ├── saved_models/
 │   └── best_model.h5
-│
 ├── requirements.txt
 └── README.md
 
@@ -132,7 +129,6 @@ project/
 
 **Surabhi H R**
 
-M.Sc Data Science
 
 
 
