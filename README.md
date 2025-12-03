@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Cover/Cover.png" width="100%">
+  <img src="Cover/Cover.png" width="120%">
 </p>
 
 🩺 **Pneumonia Detection from Chest X-Ray Images using EfficientNetB0**
