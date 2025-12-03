@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="cover.png" width="100%">
-</p>
-
 🩺 **Pneumonia Detection from Chest X-Ray Images using EfficientNetB0**
 
 A deep learning model to classify **Chest X-Ray images** into **Pneumonia** or **Normal** using **EfficientNetB0 (Transfer Learning)**.
