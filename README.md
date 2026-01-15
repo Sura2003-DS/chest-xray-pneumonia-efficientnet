@@ -125,9 +125,6 @@ medical-image-classification-3d-cnn/
 │   ├── roc_curve.png
 │   └── sample_predictions.png
 │
-├── saved_models/
-│   └── best_model.h5
-│
 ├── requirements.txt
 └── README.md
 ```
