@@ -113,7 +113,7 @@ AUC score demonstrates performance beyond simple accuracy.
 ## 📁 Folder Structure
 
 ```
-medical-image-classification-3d-cnn/
+chest-xray-pneumonia-efficientnet
 │
 ├── notebooks/
 │   └── Chest_Xray_Pneumonia_EfficientNet.ipynb
